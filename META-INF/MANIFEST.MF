@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: IIIntranet
+Bundle-SymbolicName: IIIntranet
+Bundle-Version: 1.0.0.qualifier
+Export-Package: com.callens.aspects,
+ com.callens.config,
+ com.callens.controller,
+ com.callens.dto,
+ com.callens.model,
+ com.callens.repository,
+ com.callens.services
